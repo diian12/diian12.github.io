@@ -262,7 +262,7 @@ const animationTimeline = () => {
       0.5, {
         rotation: 90,
       },
-      "+=1"
+      "+=5"
     );
 
   // Restart Animation on click
